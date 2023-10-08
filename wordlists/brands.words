@@ -71,6 +71,7 @@ AdonisJS
 Adoptium
 Adroll
 Ads
+Advent
 Adyen
 Aer
 Aeroflot
@@ -95,8 +96,10 @@ Airtable
 Airways
 Ajv
 Akamai
+Akaunting
 Alacritty
 Albert
+Alby
 Alchemy
 Aldi
 Alexa
@@ -108,6 +111,7 @@ Algorithms
 AliExpress
 Alibaba
 Alibaba.com
+Alienware
 Alipay
 AllTrails
 Allegro
@@ -158,6 +162,7 @@ Appsmith
 Appwrite
 Aqua
 ArangoDB
+Arc
 ArcGIS
 Arcade
 Arch
@@ -210,6 +215,7 @@ Automobiles
 Automobili
 Autoprefixer
 Avast
+Avira
 Awesome
 Axios
 Azure
@@ -220,6 +226,7 @@ BI
 BIM
 BMC
 BMW
+BSD
 BT
 BVG
 Babel
@@ -263,6 +270,7 @@ Biases
 Big
 BigBlueButton
 BigCommerce
+BigQuery
 Bilibili
 Billboard
 Binance
@@ -327,6 +335,7 @@ Bug
 Bugatti
 Bugcrowd
 Bugsnag
+Builder
 Buildkite
 Bukalapak
 Bulma
@@ -370,6 +379,7 @@ Capacitor
 Car
 Cardano
 Cardboard
+Carrd
 Carrefour
 Cartel
 Carto
@@ -472,6 +482,7 @@ Codecademy
 CodeceptJS
 Codecov
 Codeforces
+Codeium
 Codemagic
 CodersRank
 Coderwall
@@ -501,6 +512,7 @@ CompTIA
 Compiler
 Compose
 Composer
+Computer
 Comsol
 Conan
 Concourse
@@ -549,6 +561,7 @@ Crystal
 Cucumber
 Cultura
 CurseForge
+CyberDefenders
 Cycling
 Cypress
 Cytoscape.js
@@ -561,6 +574,7 @@ DAZN
 DC
 DHL
 DJ
+DJI
 DLNA
 DOI
 DPD
@@ -607,6 +621,7 @@ Delta
 Deno
 Denon
 Dependabot
+Dependency-Check
 Deploy
 Der
 Design
@@ -639,7 +654,10 @@ Dlib
 Docker
 Docs
 Docs.rs
+Docsify
 DocuSign
+DocumentDB
+Docusaurus
 Dogecoin
 Dolby
 Domains
@@ -714,6 +732,7 @@ Ello
 Elm
 Elsevier
 Emacs
+Email
 Embarcadero
 Ember.js
 Emby
@@ -773,6 +792,7 @@ FOX
 Face
 Facebook
 Facepunch
+Falco
 Falcon
 FamPay
 Fandango
@@ -807,6 +827,7 @@ Files
 Fing
 Fire
 Firebase
+Firefish
 Firefly
 Firefox
 Fireship
@@ -829,7 +850,9 @@ Floatplane
 Flood
 Fluent
 Fluentd
+Fluke
 Flutter
+Flux
 Fluxus
 Flyway
 Fnac
@@ -963,7 +986,9 @@ Gurobi
 Gutenberg
 Gym
 Géant
+H&M
 H3
+HAL
 HBO
 HCL
 HERE
@@ -1064,6 +1089,7 @@ IMDb
 IOTA
 IPFS
 IRIS
+ISC2
 ITVx
 IVECO
 Iata
@@ -1089,6 +1115,7 @@ InDesign
 InVision
 Indeed
 Index
+IndiGo
 India
 Industries
 Inertia
@@ -1116,6 +1143,7 @@ Intel
 IntelliJ
 InteractJS
 Interaction
+Interbase
 Intercom
 Intermarche
 International
@@ -1203,6 +1231,7 @@ Katacoda
 Katana
 Kaufland
 Kdenlive
+Kedro
 KeePassXC
 Keep
 Keil
@@ -1350,11 +1379,13 @@ Lumberyard
 Lumen
 Luna
 Lunacy
+Lutris
 Lydia
 Lyft
 MAAS
 MAMP
 MAN
+MATE
 MDN
 MDX
 MEGA
@@ -1388,6 +1419,7 @@ ManageIQ
 Management
 Manager
 Manjaro
+Mantine
 MapLibre
 Mapbox
 Maps
@@ -1398,11 +1430,13 @@ Marketo
 Marko
 Marriott
 Martin
+MarvelApp
 Maserati
 MasterCard
 Mastodon
 Material
 Mathematica
+Matillion
 Matomo
 Matrix
 Matter.js
@@ -1428,6 +1462,7 @@ MediaTemple
 Medium
 Meet
 Meetup
+Meilisearch
 Mendeley
 Mentor
 Mercado
@@ -1467,10 +1502,12 @@ Misskey
 Mitsubishi
 Mix
 Mixcloud
+Mixpanel
 MobX
 MobX-State-Tree
 Mobilités
 Mocha
+Mock
 Models
 Modin
 Modrinth
@@ -1533,6 +1570,7 @@ Namebase
 Namecheap
 Nano
 National
+Nations
 NativeScript
 Naver
 Nearby
@@ -1554,6 +1592,7 @@ Newegg
 News
 Next.js
 NextBillion.ai
+NextUI
 Nextcloud
 Nextdoor
 Nextra
@@ -1577,6 +1616,7 @@ Nord
 NordVPN
 Normalize.css
 North
+Norton
 Norwegian
 Notepad++
 Notion
@@ -1618,6 +1658,7 @@ Octopus
 Oculus
 Odnoklassniki
 Odysee
+Of
 Office
 Oh
 Okta
@@ -1647,7 +1688,9 @@ OpenSea
 OpenSearch
 OpenStack
 OpenStreetMap
+OpenTF
 OpenTelemetry
+OpenText
 OpenVPN
 OpenWrt
 OpenZFS
@@ -1662,6 +1705,7 @@ Optimized
 Oracle
 Org
 Organization
+Organizations
 Origin
 Osano
 Oshkosh
@@ -1693,6 +1737,7 @@ Pago
 Paint
 Palantir
 Palo
+Panasonic
 Pandora
 Pantheon
 Paperspace
@@ -1714,6 +1759,7 @@ Paytm
 Peak
 Pearson
 PeerTube
+Peerlist
 Pegasus
 Pelican
 Peloton
@@ -1898,6 +1944,7 @@ Qwiklabs
 Qzone
 R
 R3
+RAD
 RDS
 REWE
 RISC-V
@@ -1973,6 +2020,7 @@ RetroArch
 RetroPie
 ReverbNation
 Review
+Revit
 Revolt.chat
 Revolut
 Revue
@@ -1985,6 +2033,7 @@ Riot
 Ripple
 Riseup
 Roam
+Robinhood
 Roblox
 Robot
 RobotStudio
@@ -1998,11 +2047,13 @@ Role
 Rolls-Royce
 Rome
 Romeo
+Root
 Roots
 Rossmann
 Rotary
 Rotten
 Roundcube
+Route
 Router
 Rover
 RuboCop
@@ -2040,11 +2091,13 @@ SVG
 SVG.js
 SVGO
 SWC
+SWR
 Sabanci
 Safari
 Sage
 Sahibinden
 Sailfish
+Sails.js
 Salesforce
 Salt
 Samsung
@@ -2064,6 +2117,7 @@ Scholar
 SciPy
 Scopus
 Scout
+Scrapbox
 Scratch
 Screencastify
 Scribd
@@ -2072,7 +2126,9 @@ Script
 ScrollReveal
 Scrum
 Scrutinizer
+ScyllaDB
 Seagate
+SearXNG
 Search
 Security
 SecurityScorecard
@@ -2092,6 +2148,7 @@ Sentry
 Sequelize
 Server
 Serverless
+Service
 Services
 Sessionize
 Setapp
@@ -2112,10 +2169,12 @@ Shopee
 Shopify
 Shops
 Shopware
+Shortcut
 Shotcut
 Showpad
 Showtime
 Shutterstock
+SiFive
 Siemens
 Signal
 Similarweb
@@ -2168,6 +2227,7 @@ SonarCloud
 SonarLint
 SonarQube
 SonarSource
+Sonatype
 Songkick
 Songoda
 SonicWall
@@ -2194,7 +2254,9 @@ Spectrum
 Speedtest
 SpeedyPage
 Sphere
+Sphinx
 Spiegel
+SpigotMC
 Spinnaker
 Spinrilla
 Splunk
@@ -2253,6 +2315,7 @@ Stryker
 StubHub
 Studio
 Studios
+Studyverse
 StyleShare
 Stylus
 Subaru
@@ -2386,6 +2449,7 @@ Topcoder
 Toptal
 Tor
 Toshiba
+TourBox
 Toyota
 Track
 Tracker
@@ -2421,6 +2485,7 @@ Turbo
 TurboSquid
 Turborepo
 Turkish
+Turso
 Tutanota
 Twilio
 Twitch
@@ -2442,6 +2507,7 @@ Ubuntu
 Udacity
 Udemy
 Ulule
+Umami
 Umbraco
 Unacademy
 Under
@@ -2453,6 +2519,7 @@ United
 Unity
 Universal
 Unlicense
+Uno
 UnoCSS
 Unraid
 Unreal
@@ -2485,6 +2552,7 @@ Valorant
 Valve
 Vapor
 Vault
+Vaultwarden
 Vauxhall
 Vector
 Vectorworks
@@ -2499,7 +2567,9 @@ Veritas
 Verizon
 Verkehrsverbund
 Vert.x
+Vespa
 Viadeo
+Viaplay
 Viber
 Video
 View
@@ -2521,6 +2591,7 @@ Vivaldi
 Vivino
 VoIP.ms
 Vodafone
+Void
 Volkswagen
 Volvo
 Vonage
@@ -2580,6 +2651,7 @@ Webpack
 Weibo
 Weights
 Welcome
+Wellfound
 Western
 WhatsApp
 When
@@ -2611,6 +2683,7 @@ WooCommerce
 Word
 WordPress
 Work
+Worker
 Workflow
 Workplace
 World
@@ -2733,6 +2806,7 @@ hearthis.at
 homify
 htop
 i18next
+i3
 iBeacon
 iCloud
 iFixit
@@ -2803,6 +2877,7 @@ tqdm
 trulia
 ts-node
 uBlock
+uTorrent
 vBulletin
 vFairs
 wasmCloud
